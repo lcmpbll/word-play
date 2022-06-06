@@ -1,6 +1,7 @@
 # _New Project_
 
-#### By _**Liam Campbell_
+#### By _Liam Campbell_
+#### By _Anthony DiFalco_
 
 #### _{Brief description of application}_
 
