@@ -5,7 +5,7 @@
 
 #### _{Brief description of application}_
 
-![A cartoon image of people voting](img/vote.jpeg)
+![An image of a colorful word game](img/word.jpeg)
 
 ## Technologies Used
 
